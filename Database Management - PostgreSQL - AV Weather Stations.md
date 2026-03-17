@@ -6,7 +6,7 @@
 <b>Output:</b> Entity relationship diagram, PostgreSQL Database, SQL Select Query Results <br>
 
 
-### Phase 1: Entity Relationship Diagram**<br><br>
+### Phase 1: Entity Relationship Diagram<br><br>
 
 Case Study:<br>
 > A small local research company – AV Research – operates approximately 70 weather stations throughout the Annapolis Valley. They would like to develop a database to organize the data they collect from their weather stations.<br><br>
@@ -34,7 +34,7 @@ The following ERD was developed from the above case study and includes:
 ![AV Research ERD for proposed database design](portfolio-images/DatabaseManagement_PostgreSQL_AVWeatherStations/01_ERD.png)<br>
 *AV Research ERD for proposed database design*<br><br>
 
- ### Phase 2: Implement the model in a DBMS**<br><br>
+ ### Phase 2: Implement the model in a DBMS<br><br>
 
 ***Create AVResearch Database***<br><br>
 
